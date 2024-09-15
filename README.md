@@ -1,2 +1,2 @@
-# RL-mountain-car
-Applying reinforcement learning on the Open Gym AI for mountain car
+# Supply Chain RL 
+Applying reinforcement learning on a supply chain prediction problem 
